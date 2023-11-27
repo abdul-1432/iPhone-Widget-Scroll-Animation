@@ -5,7 +5,7 @@
 A simple and sleek iPhone widget scroll animation implemented with HTML, CSS, and JavaScript. This project is inspired by a Codepen animation.
 
 ## Demo
-Check out the live demo [here](#) or view the animation in action above.
+Check out the live demo [here](https://codepen.io/gibsonmurray/pen/RwEQKrY) or view the animation in action above.
 
 ## Features
 - Smooth scroll animation
@@ -48,7 +48,7 @@ git clone https://github.com/yourusername/iphone-widget-scroll-animation.git
 You can easily customize the appearance and behavior of the iPhone widget by modifying the CSS styles and JavaScript settings.
 
 ## Credits
-This project was inspired by [Codepen User](#) and their original animation [here](#).
+This project was inspired by [Codepen User](https://codepen.io/gibsonmurray/pen/RwEQKrY) and their original animation [here](https://codepen.io/gibsonmurray/pen/RwEQKrY).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
