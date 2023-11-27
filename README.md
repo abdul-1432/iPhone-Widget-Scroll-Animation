@@ -16,21 +16,21 @@ Check out the live demo [here](https://codepen.io/gibsonmurray/pen/RwEQKrY) or v
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/iphone-widget-scroll-animation.git
+git clone https://github.com/abdul-1432/iPhone-Widget-Scroll-Animation
 ```
 
 2. Include the necessary files in your project:
 
-```html
+```HTML
 <link rel="stylesheet" href="path/to/iphone-widget.css">
 <script src="path/to/iphone-widget.js"></script>
 ```
 
 3. Add the HTML structure to your page:
 
-```html
-<div class="iphone-widget-container">
-  <div class="iphone-screen">
+```HTML
+<div class="iPhone-widget-container">
+  <div class="iPhone-screen">
     <!-- Your content goes here -->
   </div>
 </div>
@@ -38,7 +38,7 @@ git clone https://github.com/yourusername/iphone-widget-scroll-animation.git
 
 4. Initialize the widget in your JavaScript:
 
-```html
+```HTML
 <script>
   const iphoneWidget = new iPhoneWidget();
 </script>
