@@ -1,6 +1,3 @@
-Sure, here's a template for a GitHub README for an iPhone Widget Scroll Animation made with HTML, CSS, and JavaScript, inspired by Codepen:
-
-```markdown
 # iPhone Widget Scroll Animation
 
 ![Demo](demo.gif)
@@ -57,6 +54,3 @@ This project was inspired by [Codepen User](#) and their original animation [her
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute, open issues, or submit pull requests.
-```
-
-Make sure to replace the placeholder URLs and usernames with the actual links and information. Also, include a license file (e.g., LICENSE) with the appropriate license text for your project.
